@@ -1,0 +1,6 @@
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
